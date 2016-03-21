@@ -2,6 +2,9 @@
   <PHPCodeStyleSettings>
     <option name="PREFER_TEMPLATE_INDENTS" value="true" />
   </PHPCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
   <codeStyleSettings language="PHP">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
